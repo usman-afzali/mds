@@ -1,5 +1,5 @@
 ---
-title: "Muslim Diversity Study"
+title: "Muslim Diversity Study (MDS)"
 subtitle: "A National Longitudinal Study of Muslim Diversity and Flourishing"
 image: mds.png
 author:
@@ -18,9 +18,9 @@ about:
   image-shape: rectangle
   links:
     - icon: mailbox2
-      text: Email Research Team
+      text: Contact Us!
       href: mailto:usman.afzali@canterbury.ac.nz
     - icon: twitter
-      text: Twitter Handle
+      text: MDS X
       href: https://twitter.com/MuslimDiversity
 ---

@@ -27,7 +27,10 @@ website:
         text: Reports & Publications
       - href: pages/ethics.qmd
         text: Ethics
-        
+    right:
+      - icon: github
+        href: https://github.com/usman-afzali/mds
+    page-navigation: true        
 
 format:
   html:
@@ -35,5 +38,5 @@ format:
     css: styles.css
     toc: true
 
-
+editor: source
 
