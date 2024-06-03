@@ -6,6 +6,8 @@ editor:
     wrap: 72
 title-block-banner: true
 toc-location: right
+date: 2023-06-03
+date-modified: 2024-06-03
 ---
 
 Our team consists of a the principal investigator (lead researcher) who is been helped by many senior academics affiliated with public universities of New Zealand (University of Canterbury, Victoria University of Wellington, and The University of Auckland). We come from different backgrounds, we are politically unaffiliated, and we do not represent or work for any community, religious, or political organisations. Our main motivation is to conduct good science and share it with the New Zealand public and scientific community. 

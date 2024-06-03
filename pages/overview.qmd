@@ -3,6 +3,8 @@ title: "The Muslim Diversity Study"
 title-block-banner: true
 toc-location: right
 bibliography: references.bib
+date: 2023-06-03
+date-modified: 2024-06-03
 ---
 
 Salaam alaikum, kia ora, and greetings!
