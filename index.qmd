@@ -1,5 +1,5 @@
 ---
-title: "The Muslim Diversity Study"
+title: "Muslim Diversity Study"
 subtitle: "A National Longitudinal Study of Muslim Diversity and Flourishing"
 image: mds.png
 author:
@@ -15,6 +15,7 @@ author:
 
 about:
   template: jolla
+  image-shape: rectangle
   links:
     - icon: mailbox2
       text: Email Research Team

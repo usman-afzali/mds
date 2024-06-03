@@ -10,17 +10,28 @@ website:
       <span class="faux-block">Made with {{< fa brands r-project >}} and [Quarto](https://quarto.org/)</span>
     right: |
       <span class="faux-block">[View the source at {{< fa brands github >}} GitHub](https://usman-afzali.github.io/muslim-diversity/)</span>
-    background: "#d85e33"
+    background: "#B52C30"
   
   navbar:
+    pinned: true
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - href: pages/overview.qmd
+        text: Overview
+      - href: pages/vision.qmd
+        text: Vision
+      - href: pages/team.qmd
+        text: Team
+      - href: pages/confid.qmd
+        text: Confidentiality
+      - href: pages/reports.qmd
+        text: Reports & Publications
+      - href: pages/ethics.qmd
+        text: Ethics
+        
 
 format:
   html:
-    theme: cosmo
+    theme: united
     css: styles.css
     toc: true
 

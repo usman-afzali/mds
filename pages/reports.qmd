@@ -1,0 +1,24 @@
+---
+title: "Infographics and Reports"
+title-block-banner: true
+toc-location: right
+bibliography: references.bib
+---
+
+## Infographics
+
+To be added.
+
+---------------------
+
+## Brief Reports
+
+To be added.
+
+----------------------
+
+## Scientific Publications
+
+To be added.
+
+-----------------------
