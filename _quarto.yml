@@ -5,12 +5,14 @@ project:
 website:
   title: "Muslim Diversity Study"
   favicon: mds.png
+  back-to-top-navigation: true
+  twitter-card: true
   
   page-footer:
     left: |
       <span class="faux-block">Made with {{< fa brands r-project >}} and [Quarto](https://quarto.org/)</span>
     right: |
-      <span class="faux-block">[View the source at {{< fa brands github >}} GitHub](https://usman-afzali.github.io/muslim-diversity/)</span>
+      <span class="faux-block">[View the source at {{< fa brands github >}} GitHub](https://usman-afzali.github.io/mds/)</span>
     background: "#B52C30"
   
   navbar:
@@ -29,15 +31,22 @@ website:
       - href: pages/ethics.qmd
         text: Ethics
     right:
+      - href: pages/about.qmd
+        text: About
       - icon: github
-        href: https://github.com/usman-afzali/mds
-    page-navigation: true        
+        menu:
+        - text: Source Code
+          href: https://github.com/usman-afzali/mds
+        - text: Report a Bug
+          href: mailto:usman.afzali@canterbury.ac.nz     
+    page-navigation: true
 
 format:
   html:
     theme: united
     css: styles.css
     toc: true
+
 
 editor: source
 

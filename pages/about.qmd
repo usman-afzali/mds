@@ -1,0 +1,26 @@
+---
+title: "Dr Usman Afzali"
+about:
+  template: jolla
+  image: /pages/team-figs/usman-a.jpeg
+  links:
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com/UsmanAfzali
+    - icon: github
+      text: Github
+      href: https://github.com/usman-afzali
+    - text: Homepage
+      href: www.usmanafzali.com
+---
+
+Dr Usman Afzali is the lead researcher (principal investigator) of the Muslim Diversity Study, currently working as a postdoctoral research fellow and lecturer in the School of Psychology, Speech and Hearing at the University of Canterbury (Christchurch, New Zealand).
+
+In the multi-city longitudinal Muslim Diversity Study, his team and Usman concentrate on investigating the effects of religion on social attitudes, values, resilience, flourishing, meaning-making, overall well-being, and experiences of Muslims in New Zealand. In this capacity, he leads a team of 28 research assistants and numerous collaborators, fostering a collaborative and enriching research environment.
+
+During PhD, he received training in cognitive psychology and neuroscience, with a primary emphasis on memory suppression and utilising brainwave (EEG/ERP) data to examine possession of criminal knowledge. Additionally, his research encompasses contemplative neuroscience, where I aim to explore neural correlates of contemplative practices.
+
+He uses experimental (behavioural as well as neuroscientific) and observational research methods.
+
+Since the end of 2022, he have been using GitHub with RStudio and Quarto to learn, produce, and share code. Occasionally, he uses Matlab and Python too.
+
