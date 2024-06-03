@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Muslim Diversity Study"
+  favicon: mds.png
   
   page-footer:
     left: |
