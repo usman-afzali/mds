@@ -30,8 +30,7 @@ website:
         text: Reports & Publications
       - href: pages/ethics.qmd
         text: Ethics
-      - href: pages/events.qmd
-        text: Events
+
     right:
       - href: pages/about.qmd
         text: About
