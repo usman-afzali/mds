@@ -32,6 +32,8 @@ website:
         text: Ethics
       - href: pages/events.qmd
         text: Events
+      - href: pages/participation.qmd
+        text: Research Participation
         
     right:
       - href: pages/about.qmd
